@@ -1,2 +1,2 @@
 # ephemeral-flatpak
-Flatpak package for ephemeral browser
+Flatpak package for https://github.com/cassidyjames/ephemeral browser
