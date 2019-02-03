@@ -2,7 +2,7 @@
 
 Flatpak package for https://github.com/cassidyjames/ephemeral browser
 
-Install with 
+Install with :
 
 *flatpak install flathub org.gnome.Sdk/x86_64/3.30*
 
